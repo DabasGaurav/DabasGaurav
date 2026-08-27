@@ -1,5 +1,4 @@
-## Hi there 👋
-# I'm Gaurav
+## Hi there, I'm Gaurav 👋 
 
 Engineer who moved into product management. I still build — the projects below are things I designed, coded, and shipped end-to-end, not just specced.
 
