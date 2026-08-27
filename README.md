@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I'm Gaurav 👋
+# I'm Gaurav 
 
 Product Manager | Engineer | Product Builder
 
