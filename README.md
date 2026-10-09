@@ -1,14 +1,11 @@
-## Hi there, I'm Gaurav 👋 
+## Hi, I'm Gaurav 👋
 
-Engineer who moved into product management. I still build — the projects below are things I designed, coded, and shipped end-to-end, not just specced.
+I moved from engineering into product management at ION and now study at ISB. I still build to test ideas, understand tradeoffs, and learn from what people actually use.
 
-**Projects**
+### Selected work
 
-**[CreatorSignal.ai](https://github.com/DabasGaurav/CreatorOS)** — Agentic recommendation system for Instagram Reels creators: what to create next, backed by evidence, generated on demand.
+- **[Proposal Copilot](https://github.com/DabasGaurav/vcg-proposal-copilot)** — Source-grounded RFP drafting with deterministic checks and a human review gate. [Try the demo](https://rfp-proposal.streamlit.app/).
+- **[Show Up](https://github.com/DabasGaurav/show-up)** — A volunteering product focused on clear commitments and better attendance planning.
+- **[CreatorSignal.ai](https://github.com/DabasGaurav/creatorsignal.ai)** — Turning Instagram Reels signals into specific, inspectable content recommendations.
 
-**[portfolio](https://github.com/DabasGaurav/portfolio)** — This site. Next.js, a RAG chatbot trained on my own content, live GitHub data, shipped one milestone at a time.
-
-**[ai-resume-variant-builder](https://github.com/DabasGaurav/ai-resume-variant-builder)** — Tailors a resume to a target role by scoring bullets for relevance, entirely in-browser, no server involved.
-
-**Elsewhere**
-[LinkedIn](https://www.linkedin.com/in/dabasgaurav/) · [gauravdabas.in](https://gauravdabas.in)
+Explore the product decisions behind each project at **[gauravdabas.in](https://gauravdabas.in)**. [Connect on LinkedIn](https://www.linkedin.com/in/dabasgaurav/).
