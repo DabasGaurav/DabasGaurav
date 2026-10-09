@@ -4,7 +4,7 @@ Engineer who moved into product management. I still build — the projects below
 
 **Projects**
 
-**[CreatorOS](https://github.com/DabasGaurav/CreatorOS)** — Agentic recommendation system for Instagram Reels creators: what to create next, backed by evidence, generated on demand.
+**[CreatorSignal.ai](https://github.com/DabasGaurav/CreatorOS)** — Agentic recommendation system for Instagram Reels creators: what to create next, backed by evidence, generated on demand.
 
 **[portfolio](https://github.com/DabasGaurav/portfolio)** — This site. Next.js, a RAG chatbot trained on my own content, live GitHub data, shipped one milestone at a time.
 
